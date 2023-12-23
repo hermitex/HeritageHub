@@ -1,0 +1,15 @@
+# .gitignore for a C# project
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+project.lock.json
+_ReSharper*/
+[Tt]humbs.db
+*.log
+logs/
+*.DS_Store

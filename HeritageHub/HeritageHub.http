@@ -1,0 +1,6 @@
+@HeritageHub_HostAddress = http://localhost:5213
+
+GET {{HeritageHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
